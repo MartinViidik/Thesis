@@ -1,0 +1,1 @@
+Assets/VRTK/Examples/ExampleResources/Models/WonderRocks.fbx
